@@ -1,0 +1,1 @@
+# cpp-matriz-observatorio-astronomico-encontrar-estrellas-cantidad-de-luz-cada-elemento-
